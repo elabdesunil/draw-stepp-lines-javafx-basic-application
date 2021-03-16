@@ -37,4 +37,4 @@ This runs all `.java` files in the directory.
 java --module-path $env:PATH_TO_FX --add-modules javafx.controls,javafx.fxml DrawSteppedLines
 ```
 
-More detailed tutorial is here on setting up and running JavaFX applcation.
+More detailed tutorial is [here](https://openjfx.io/openjfx-docs/#install-javafx) on setting up and running JavaFX applcation.
