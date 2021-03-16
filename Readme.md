@@ -1,5 +1,7 @@
 # Draw Stepped Lines - A basic JavaFX application
 
+![](draw-stepped-lines.gif)
+
 ## Requirement
 
 - Java Development Kit (JDK) download from [here](http://jdk.java.net/15/)
